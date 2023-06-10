@@ -1,0 +1,51 @@
+html style{
+    height: 100%
+}
+.info{
+    font-size:2rem;
+    padding-left: 30rem;
+;
+}
+.card-body{
+    display: flex;
+    flex-direction: row;
+    height: 50rem;
+    width: 70rem;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.basic{
+    height: 30rem;
+    width: 50rem;
+    background-color:azure;
+}
+
+
+.pro{
+    background-color: royalblue;
+    height: 32rem;
+    width: 50rem;
+
+}
+.btn{
+    height: 3rem;
+    width: 20rem;
+    background-color:whitesmoke;
+    border-radius: 0.5rem;
+    border-style: none;
+    font-size: 2rem;
+    color: royalblue;
+}
+
+.btn1{
+    height: 3rem;
+    width: 20rem;
+    background-color:royalblue;
+    border: 2rem;
+    border-radius: 0.5rem;
+    border-style: none;
+    font-size: 2rem;
+    color: azure;
+}
+
