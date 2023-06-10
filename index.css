@@ -1,0 +1,23 @@
+.card-group{
+    display: grid;
+    grid-template-rows: repeat(1, 40rem);
+    text-align: justify;
+
+}
+
+
+#pro{
+    background-color: royalblue;
+
+}
+.btn{
+    height: 3rem;
+    width: 10rem;
+    background-color:white;
+}
+
+.btn1{
+    height: 3rem;
+    width: 10rem;
+    background-color:royalblue;
+}
